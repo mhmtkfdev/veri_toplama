@@ -1,0 +1,78 @@
+Kesinlikle Katiliyorum 1
+	.katiliyorum
+	.karasizim
+	.katilmiyorum
+Kesinlikle Katilmiyorum 5
+
+Her Zaman Katiliyorum 1
+	.genellikle
+	.bazen
+	.nadiren
+Hic Katilmiyorum 5
+
+Her Zaman Uyguluyorum 1
+	.genellikle
+	.bazen
+	.nadiren
+Hic Uygulamıyorum 5
+Duzenli Bir Ders Calisma Prog. 6
+
+Düzenli olaral hergün 1
+	.1 2ay
+	.1 2 hafta
+	.1 7 gun
+Son Gün 5
+
+Evet 1
+Hayır 0
+
+Erkek 1
+Kadın 0
+
+Her zaman Destekler 1
+	.genellikle
+	.bazen
+	.nadiren
+Hicbir Zaman Desteklemez 5
+
+Fazlasiyla Etkiliyor 1
+	.Oldukca
+	.Bazen
+	.cok az
+Hic Etkilemiyor 5
+
+kütüphane 1
+ev 2
+yurt 3
+kafe 4
+diğer 5
+
+18-20 1
+21-23 2
+24-26 3
+27ve uzeri 4
+
+hazirlik 1
+1.	2
+2.	3
+3.	4
+4.	5
+4+	6
+
+diş	1
+ecza	2
+edeb	3
+fen	4
+iibf	5
+mim	6
+müh	7
+ofte	8
+ormn	9
+sağlık	10
+sürm	11
+tip	12
+
+2 Saat az	1
+2-5 saat	2
+6-9 saat	3
+10 saat üzeri	4
